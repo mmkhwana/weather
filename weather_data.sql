@@ -1,0 +1,1 @@
+Select * weather_data
