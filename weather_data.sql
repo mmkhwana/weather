@@ -1,1 +1,0 @@
-Select * weather_data
